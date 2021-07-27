@@ -11,9 +11,9 @@ Learning Statistics, Perception Model, Neural Networks
 
 <br>
 ### Expertise
-    <img align="left" alt="Data_Analysis" src="https://img.shields.io/badge/Data_Analysis%20-%23316192.svg?&style=for-the-badge&logo=Data_Visualization&logoColor=%2361DAFB" />
-    <img align="left" alt="System_Analysis" src="https://img.shields.io/badge/System_Analysis%20-%23316192.svg?&style=for-the-badge&logo=System_Analysis&logoColor=white" />
-    <img align="left" alt="Data_Visualization" src="https://img.shields.io/badge/Data%20Visualization-%23316192?logo=Data_Visualization&logoColor=white&style=for-the-badge" />
+    <img align="left" alt="Data_Analysis" src="https://img.shields.io/badge/Data_Analysis%20-%23316192.svg?&style=for-the-badge&logo=Data_Visualization&logoColor=%2361DAFB"/>
+    <img align="left" alt="System_Analysis" src="https://img.shields.io/badge/System_Analysis%20-%23316192.svg?&style=for-the-badge&logo=System_Analysis&logoColor=white"/>
+    <img align="left" alt="Data_Visualization" src="https://img.shields.io/badge/Data%20Visualization-%23316192?logo=Data_Visualization&logoColor=white&style=for-the-badge"/>
     <img align="left" alt="ETL" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=ETL&logoColor=white" />
 
 <!--
