@@ -1,4 +1,5 @@
-### Hi there 👋
+
+### Portfolio 👋
 A seaonsed IT Professional with strong database, Data Analytics and Data Visualization experience. A person who loves to explore data and find more out of any data inputs.
 Learning Statistics, Perception Model, Neural Networks
 
