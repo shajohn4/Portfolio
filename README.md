@@ -1,7 +1,10 @@
-
-### Portfolio 👋
+## Shaji John
 A seaonsed IT Professional with strong database, Data Analytics and Data Visualization experience. A person who loves to explore data and find more out of any data inputs.
 Learning Statistics, Perception Model, Neural Networks
+
+#### Education
+* Master in Computer Management. *Pune University* 2000 - 2002
+* Bachelor of Science (Chemistry). *Veer Narmad University* 1996 - 1999
 
 <br>
 <B> Connect with me </B> <br>
